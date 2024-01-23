@@ -9,6 +9,10 @@ sites:
     url: https://igstv.gzod01.fr
   - name: Syllchips.GZod01.fr
     url: https://syllchips.gzod01.fr
+  - name: OiseauK.Gzod01.fr
+    url: https://oiseauk.gzod01.fr
+  - name: APPS.GZod01.fr (CyberGammApps)
+    url: https://apps.gzod01.fr
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
