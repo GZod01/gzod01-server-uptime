@@ -4,46 +4,50 @@
     "url": "https://gzod01.fr",
     "icon": "https://icons.duckduckgo.com/ip3/gzod01.fr.ico",
     "slug": "g-zod01-fr",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 557,
     "timeDay": 472,
     "timeWeek": 619,
     "timeMonth": 557,
     "timeYear": 557,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-01": 2
+    }
   },
   {
     "name": "IGSTV.GZod01.fr",
     "url": "https://igstv.gzod01.fr",
     "icon": "https://icons.duckduckgo.com/ip3/igstv.gzod01.fr.ico",
     "slug": "igstv-g-zod01-fr",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 477,
     "timeDay": 399,
     "timeWeek": 506,
     "timeMonth": 477,
     "timeYear": 477,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-01": 2
+    }
   },
   {
     "name": "Syllchips.GZod01.fr",
     "url": "https://syllchips.gzod01.fr",
     "icon": "https://icons.duckduckgo.com/ip3/syllchips.gzod01.fr.ico",
     "slug": "syllchips-g-zod01-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 429,
@@ -51,34 +55,38 @@
     "timeWeek": 470,
     "timeMonth": 429,
     "timeYear": 429,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-01": 1
+    }
   },
   {
     "name": "OiseauK.Gzod01.fr",
     "url": "https://oiseauk.gzod01.fr",
     "icon": "https://icons.duckduckgo.com/ip3/oiseauk.gzod01.fr.ico",
     "slug": "oiseau-k-gzod01-fr",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 454,
     "timeDay": 362,
     "timeWeek": 475,
     "timeMonth": 454,
     "timeYear": 454,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-01": 1
+    }
   },
   {
     "name": "APPS.GZod01.fr (CyberGammApps)",
     "url": "https://apps.gzod01.fr",
     "icon": "https://icons.duckduckgo.com/ip3/apps.gzod01.fr.ico",
     "slug": "apps-g-zod01-fr-cyber-gamm-apps",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,6 +95,8 @@
     "timeWeek": 560,
     "timeMonth": 535,
     "timeYear": 535,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-01": 0
+    }
   }
 ]
