@@ -11,9 +11,9 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.92%",
     "time": 549,
-    "timeDay": 371,
-    "timeWeek": 487,
-    "timeMonth": 553,
+    "timeDay": 543,
+    "timeWeek": 506,
+    "timeMonth": 558,
     "timeYear": 549,
     "dailyMinutesDown": {
       "2024-02-01": 41
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.92%",
-    "time": 459,
-    "timeDay": 423,
+    "time": 457,
+    "timeDay": 395,
     "timeWeek": 371,
-    "timeMonth": 453,
-    "timeYear": 459,
+    "timeMonth": 457,
+    "timeYear": 457,
     "dailyMinutesDown": {
       "2024-02-01": 41
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.92%",
-    "time": 428,
-    "timeDay": 314,
-    "timeWeek": 366,
-    "timeMonth": 420,
-    "timeYear": 428,
+    "time": 427,
+    "timeDay": 415,
+    "timeWeek": 365,
+    "timeMonth": 422,
+    "timeYear": 427,
     "dailyMinutesDown": {
       "2024-02-01": 40
     }
@@ -65,16 +65,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/oiseauk.gzod01.fr.ico",
     "slug": "oiseau-k-gzod01-fr",
     "status": "up",
-    "uptime": "99.86%",
+    "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
-    "time": 432,
-    "timeDay": 385,
-    "timeWeek": 380,
-    "timeMonth": 432,
-    "timeYear": 432,
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 428,
+    "timeDay": 338,
+    "timeWeek": 372,
+    "timeMonth": 428,
+    "timeYear": 428,
     "dailyMinutesDown": {
       "2024-02-01": 40
     }
@@ -90,11 +90,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.87%",
-    "time": 518,
-    "timeDay": 510,
-    "timeWeek": 468,
-    "timeMonth": 518,
-    "timeYear": 518,
+    "time": 512,
+    "timeDay": 381,
+    "timeWeek": 452,
+    "timeMonth": 512,
+    "timeYear": 512,
     "dailyMinutesDown": {
       "2024-02-01": 39
     }
