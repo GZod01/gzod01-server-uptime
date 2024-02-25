@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.94%",
-    "time": 547,
-    "timeDay": 441,
-    "timeWeek": 538,
-    "timeMonth": 552,
-    "timeYear": 547,
+    "time": 549,
+    "timeDay": 690,
+    "timeWeek": 568,
+    "timeMonth": 559,
+    "timeYear": 549,
     "dailyMinutesDown": {
       "2024-02-01": 41
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.94%",
-    "time": 451,
-    "timeDay": 319,
-    "timeWeek": 431,
-    "timeMonth": 440,
-    "timeYear": 451,
+    "time": 452,
+    "timeDay": 517,
+    "timeWeek": 459,
+    "timeMonth": 445,
+    "timeYear": 452,
     "dailyMinutesDown": {
       "2024-02-01": 41
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.94%",
-    "time": 423,
-    "timeDay": 419,
-    "timeWeek": 406,
-    "timeMonth": 427,
-    "timeYear": 423,
+    "time": 427,
+    "timeDay": 622,
+    "timeWeek": 443,
+    "timeMonth": 435,
+    "timeYear": 427,
     "dailyMinutesDown": {
       "2024-02-01": 40
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
-    "time": 421,
-    "timeDay": 377,
-    "timeWeek": 409,
-    "timeMonth": 422,
-    "timeYear": 421,
+    "time": 423,
+    "timeDay": 497,
+    "timeWeek": 426,
+    "timeMonth": 425,
+    "timeYear": 423,
     "dailyMinutesDown": {
       "2024-02-01": 40
     }
@@ -85,16 +85,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/apps.gzod01.fr.ico",
     "slug": "apps-g-zod01-fr-cyber-gamm-apps",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
-    "time": 519,
-    "timeDay": 447,
-    "timeWeek": 558,
-    "timeMonth": 522,
-    "timeYear": 519,
+    "uptimeYear": "99.92%",
+    "time": 522,
+    "timeDay": 624,
+    "timeWeek": 578,
+    "timeMonth": 526,
+    "timeYear": 522,
     "dailyMinutesDown": {
       "2024-02-01": 39
     }
