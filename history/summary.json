@@ -84,18 +84,19 @@
     "url": "https://apps.gzod01.fr",
     "icon": "https://icons.duckduckgo.com/ip3/apps.gzod01.fr.ico",
     "slug": "apps-g-zod01-fr-cyber-gamm-apps",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 521,
-    "timeDay": 373,
-    "timeWeek": 530,
-    "timeMonth": 522,
-    "timeYear": 521,
+    "time": 522,
+    "timeDay": 480,
+    "timeWeek": 537,
+    "timeMonth": 524,
+    "timeYear": 522,
     "dailyMinutesDown": {
+      "2024-03-02": 0,
       "2024-02-01": 39
     }
   }
