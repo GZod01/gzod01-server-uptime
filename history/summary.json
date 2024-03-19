@@ -4,10 +4,10 @@
     "url": "https://gzod01.fr",
     "icon": "https://icons.duckduckgo.com/ip3/gzod01.fr.ico",
     "slug": "g-zod01-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.79%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.78%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
     "time": 547,
@@ -16,6 +16,7 @@
     "timeMonth": 550,
     "timeYear": 547,
     "dailyMinutesDown": {
+      "2024-03-19": 1,
       "2024-03-15": 21,
       "2024-03-08": 15,
       "2024-02-01": 41
@@ -26,9 +27,9 @@
     "url": "https://igstv.gzod01.fr",
     "icon": "https://icons.duckduckgo.com/ip3/igstv.gzod01.fr.ico",
     "slug": "igstv-g-zod01-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.94%",
@@ -38,6 +39,7 @@
     "timeMonth": 446,
     "timeYear": 449,
     "dailyMinutesDown": {
+      "2024-03-19": 0,
       "2024-03-15": 21,
       "2024-02-01": 41
     }
