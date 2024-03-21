@@ -4,11 +4,11 @@
     "url": "https://gzod01.fr",
     "icon": "https://icons.duckduckgo.com/ip3/gzod01.fr.ico",
     "slug": "g-zod01-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.92%",
     "time": 546,
     "timeDay": 680,
@@ -16,6 +16,7 @@
     "timeMonth": 537,
     "timeYear": 546,
     "dailyMinutesDown": {
+      "2024-03-21": 2,
       "2024-03-15": 21,
       "2024-03-08": 15,
       "2024-02-01": 41
@@ -26,10 +27,10 @@
     "url": "https://igstv.gzod01.fr",
     "icon": "https://icons.duckduckgo.com/ip3/igstv.gzod01.fr.ico",
     "slug": "igstv-g-zod01-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.79%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.78%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.94%",
     "time": 447,
@@ -38,6 +39,7 @@
     "timeMonth": 439,
     "timeYear": 447,
     "dailyMinutesDown": {
+      "2024-03-21": 2,
       "2024-03-15": 21,
       "2024-02-01": 41
     }
@@ -47,10 +49,10 @@
     "url": "https://syllchips.gzod01.fr",
     "icon": "https://icons.duckduckgo.com/ip3/syllchips.gzod01.fr.ico",
     "slug": "syllchips-g-zod01-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.80%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.94%",
     "time": 429,
@@ -59,6 +61,7 @@
     "timeMonth": 435,
     "timeYear": 429,
     "dailyMinutesDown": {
+      "2024-03-21": 1,
       "2024-03-15": 20,
       "2024-02-01": 40
     }
@@ -68,9 +71,9 @@
     "url": "https://oiseauk.gzod01.fr",
     "icon": "https://icons.duckduckgo.com/ip3/oiseauk.gzod01.fr.ico",
     "slug": "oiseau-k-gzod01-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.93%",
@@ -80,6 +83,7 @@
     "timeMonth": 420,
     "timeYear": 423,
     "dailyMinutesDown": {
+      "2024-03-21": 1,
       "2024-03-15": 20,
       "2024-02-01": 40
     }
@@ -89,9 +93,9 @@
     "url": "https://apps.gzod01.fr",
     "icon": "https://icons.duckduckgo.com/ip3/apps.gzod01.fr.ico",
     "slug": "apps-g-zod01-fr-cyber-gamm-apps",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.91%",
@@ -101,6 +105,7 @@
     "timeMonth": 541,
     "timeYear": 532,
     "dailyMinutesDown": {
+      "2024-03-21": 0,
       "2024-03-15": 19,
       "2024-03-02": 16,
       "2024-02-01": 39
