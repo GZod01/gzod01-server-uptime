@@ -17,6 +17,8 @@ sites:
     url: https://forge.gzod01.fr
   - name: Mail.GZod01.fr (CyberGammaMail)
     url: https://mail.gzod01.fr
+  - name: Stellae-Auri.GZod01.fr (Stellae Auri Website)
+    url: https://stellae-auri.gzod01.fr
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
