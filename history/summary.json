@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cybergamma.group.ico",
     "slug": "cyber-gamma-group",
     "status": "down",
-    "uptime": "0.21%",
-    "uptimeDay": "0.21%",
-    "uptimeWeek": "0.21%",
-    "uptimeMonth": "0.21%",
-    "uptimeYear": "0.21%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-09": 9
+      "2024-07-09": 47
     }
   },
   {
@@ -65,19 +65,19 @@
     "url": "https://igstv.gzod01.fr",
     "icon": "https://icons.duckduckgo.com/ip3/igstv.gzod01.fr.ico",
     "slug": "igstv-gzod01-fr",
-    "status": "down",
-    "uptime": "0.04%",
-    "uptimeDay": "0.04%",
-    "uptimeWeek": "0.04%",
-    "uptimeMonth": "0.04%",
-    "uptimeYear": "0.04%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.23%",
+    "uptimeDay": "0.23%",
+    "uptimeWeek": "0.23%",
+    "uptimeMonth": "0.23%",
+    "uptimeYear": "0.23%",
+    "time": 783,
+    "timeDay": 783,
+    "timeWeek": 783,
+    "timeMonth": 783,
+    "timeYear": 783,
     "dailyMinutesDown": {
-      "2024-07-09": 9
+      "2024-07-09": 47
     }
   },
   {
