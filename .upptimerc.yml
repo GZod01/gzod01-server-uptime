@@ -3,45 +3,45 @@ owner: GZod01 # Your GitHub organization or username, where this repository live
 repo: gzod01-server-uptime # The name of this repository
 
 sites:
-  - name: GZod01.fr
-    url: https://gzod01.fr
+  - name: cybergamm.group
+    url: https://cybergamm.group
     maxRedirects: 10
-  - name: IGSTV.GZod01.fr
+  - name: IGSTV.cybergamm.group
     url: https://igstv.cybergamma.group
     maxRedirects: 10
-  - name: Syllchips.GZod01.fr
+  - name: Syllchips.cybergamm.group
     url: https://syllchips.cybergamma.group
     maxRedirects: 10
-  - name: OiseauK.Gzod01.fr
+  - name: OiseauK.cybergamm.group
     url: https://oiseauk.cybergamma.group
     maxRedirects: 10
-  - name: APPS.GZod01.fr (CyberGammApps)
-    url: https://apps.gzod01.fr
+  - name: APPS.cybergamm.group (CyberGammApps)
+    url: https://apps.cybergamm.group
     maxRedirects: 10
-  - name: Forge.GZod01.fr (CyberGammaForge)
-    url: https://forge.gzod01.fr
+  - name: Forge.cybergamm.group (CyberGammaForge)
+    url: https://forge.cybergamm.group
     maxRedirects: 10
-  - name: Mail.GZod01.fr (CyberGammaMail)
-    url: https://mail.gzod01.fr
+  - name: Mail.cybergamm.group (CyberGammaMail)
+    url: https://mail.cybergamm.group
     maxRedirects: 10
-  - name: Stellae-Auri.GZod01.fr (Stellae Auri Website)
-    url: https://stellae-auri.gzod01.fr
+  - name: Stellae-Auri.cybergamm.group (Stellae Auri Website)
+    url: https://stellae-auri.cybergamm.group
     maxRedirects: 10
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: uptime.gh.gzod01.fr
+  cname: uptime.gh.cybergamm.group
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: GZod01.fr Server Uptime
-  introTitle: "GZod01.fr Server Uptime Monitor powered by Upptime"
-  introMessage: Status page for GZod01.fr server and all subdomains and other site hosted on GZod01.fr server
+  name: cybergamm.group Server Uptime
+  introTitle: "cybergamm.group Server Uptime Monitor powered by Upptime"
+  introMessage: Status page for cybergamm.group server and all subdomains and other site hosted on cybergamm.group server
   navbar:
     - title: Status
       href: /
-    - title: GZod01.fr
-      href: https://gzod01.fr
+    - title: cybergamm.group
+      href: https://cybergamm.group
       
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
