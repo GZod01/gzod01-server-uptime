@@ -5,20 +5,28 @@ repo: gzod01-server-uptime # The name of this repository
 sites:
   - name: GZod01.fr
     url: https://gzod01.fr
+    maxRedirects: 10
   - name: IGSTV.GZod01.fr
-    url: https://igstv.gzod01.fr
+    url: https://igstv.cybergamma.group
+    maxRedirects: 10
   - name: Syllchips.GZod01.fr
-    url: https://syllchips.gzod01.fr
+    url: https://syllchips.cybergamma.group
+    maxRedirects: 10
   - name: OiseauK.Gzod01.fr
-    url: https://oiseauk.gzod01.fr
+    url: https://oiseauk.cybergamma.group
+    maxRedirects: 10
   - name: APPS.GZod01.fr (CyberGammApps)
     url: https://apps.gzod01.fr
+    maxRedirects: 10
   - name: Forge.GZod01.fr (CyberGammaForge)
     url: https://forge.gzod01.fr
+    maxRedirects: 10
   - name: Mail.GZod01.fr (CyberGammaMail)
     url: https://mail.gzod01.fr
+    maxRedirects: 10
   - name: Stellae-Auri.GZod01.fr (Stellae Auri Website)
     url: https://stellae-auri.gzod01.fr
+    maxRedirects: 10
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
