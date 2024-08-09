@@ -86,19 +86,19 @@
     "url": "https://chips.cybergamma.group",
     "icon": "https://icons.duckduckgo.com/ip3/chips.cybergamma.group.ico",
     "slug": "chips-cyber-gamma-group-syll-chips-website",
-    "status": "down",
-    "uptime": "6.04%",
-    "uptimeDay": "6.04%",
-    "uptimeWeek": "6.04%",
-    "uptimeMonth": "6.04%",
-    "uptimeYear": "6.04%",
-    "time": 338,
-    "timeDay": 338,
-    "timeWeek": 338,
-    "timeMonth": 338,
-    "timeYear": 338,
+    "status": "up",
+    "uptime": "1.60%",
+    "uptimeDay": "1.60%",
+    "uptimeWeek": "1.60%",
+    "uptimeMonth": "1.60%",
+    "uptimeYear": "1.60%",
+    "time": 318,
+    "timeDay": 318,
+    "timeWeek": 318,
+    "timeMonth": 318,
+    "timeYear": 318,
     "dailyMinutesDown": {
-      "2024-08-09": 0
+      "2024-08-09": 7
     }
   },
   {
