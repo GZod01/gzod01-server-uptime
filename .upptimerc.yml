@@ -11,8 +11,8 @@ sites:
   - name: IGSTV.gzod01.fr
     url: https://igstv.gzod01.fr
     maxRedirects: 10
-  - name: Syllchips.CyberGamma.group
-    url: https://syllchips.cybergamma.group
+  - name: Chips.CyberGamma.group (SyllChips website)
+    url: https://chips.cybergamma.group
     maxRedirects: 10
   - name: APPS.CyberGamma.Group (CyberGammApps)
     url: https://apps.cybergamma.group
