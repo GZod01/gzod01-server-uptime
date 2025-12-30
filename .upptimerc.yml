@@ -23,7 +23,7 @@ sites:
     url: https://apps.cybergamma.group
     maxRedirects: 10
   - name: CyberGammaForge
-    slug: cybergam
+    slug: cybergammaforge
     url: https://forge.cybergamma.group
     maxRedirects: 10
   - name: Mail.cybergamma.group (CyberGammaMail)
