@@ -26,6 +26,9 @@ sites:
   - name: Stellae-Auri.cybergamma.group (Stellae Auri Website)
     url: https://stellae-auri.cybergamma.group
     maxRedirects: 10
+  - name: Test
+    url: https://budget.cybergamma.group
+    maxRedirects: 10
 
 
 status-website:
