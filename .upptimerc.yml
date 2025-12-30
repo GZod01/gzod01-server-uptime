@@ -3,10 +3,14 @@ owner: GZod01 # Your GitHub organization or username, where this repository live
 repo: gzod01-server-uptime # The name of this repository
 
 sites:
+  - name: Sézille.Net
+    url: https://sezille.net
+    maxRedirects: 10
   - name: CyberGamma.Group
     url: https://CyberGamma.group
+    slug: cybergamma-group
     maxRedirects: 10
-  - name: GZod01.Fr
+  - name: Gzod01.Fr
     url: https://gzod01.fr
   - name: IGSTV.gzod01.fr
     url: https://igstv.gzod01.fr
@@ -14,10 +18,12 @@ sites:
   - name: Chips.CyberGamma.group (SyllChips website)
     url: https://chips.cybergamma.group
     maxRedirects: 10
-  - name: APPS.CyberGamma.Group (CyberGammApps)
+  - name: CyberGammApps
+    slug: cybergammapps
     url: https://apps.cybergamma.group
     maxRedirects: 10
-  - name: Forge.CyberGamma.Group (CyberGammaForge)
+  - name: CyberGammaForge
+    slug: cybergam
     url: https://forge.cybergamma.group
     maxRedirects: 10
   - name: Mail.cybergamma.group (CyberGammaMail)
