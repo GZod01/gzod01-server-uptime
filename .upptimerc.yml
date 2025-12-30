@@ -28,7 +28,7 @@ sites:
     maxRedirects: 10
   - name: Test
     url: https://budget.cybergamma.group
-    maxRedirects: 10
+    maxRedirects: 9
 
 
 status-website:
