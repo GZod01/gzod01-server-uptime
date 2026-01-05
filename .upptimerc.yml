@@ -77,12 +77,13 @@ status-website:
   navbar:
     - title: Status
       href: /
+    - title: Sezille.net
+      href: https://sezille.net
     - title: CyberGamma.Group
       href: https://cybergamma.group
     - title: GZod01.FR
       href: https://gzod01.fr
-    - title: Sezille.net
-      href: https://sezille.net
+    
       
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
