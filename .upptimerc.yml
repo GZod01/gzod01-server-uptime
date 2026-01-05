@@ -34,6 +34,7 @@ sites:
   - name: CyberGammaGroup Communications VM
     slug: cybergammagroup-communications-vm
     url: comm.vm.cybergamma.group
+    check: "tcp-ping"
     ipv6: true
     maxRedirects: 10
   - name: CyberGammaMail
