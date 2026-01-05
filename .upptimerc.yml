@@ -3,38 +3,62 @@ owner: GZod01 # Your GitHub organization or username, where this repository live
 repo: gzod01-server-uptime # The name of this repository
 
 sites:
-  - name: Sézille.Net
+  - name: Sezille.net Main Server
+    slug: sezille-net
     url: https://sezille.net
     maxRedirects: 10
-  - name: CyberGamma.Group
-    url: https://CyberGamma.group
+  - name: CyberGammaGroup Websites VM
+    slug: cybergammagroup-websites-vm
+    url: https://websites.vm.cybergamma.group
+    ipv6: true
+    maxRedirects: 10
+  - name: CyberGammaGroup
     slug: cybergamma-group
-    maxRedirects: 10
-  - name: Gzod01.Fr
-    url: https://gzod01.fr
-  - name: IGSTV.gzod01.fr
-    url: https://igstv.gzod01.fr
-    maxRedirects: 10
-  - name: Chips.CyberGamma.group (SyllChips website)
-    url: https://chips.cybergamma.group
+    url: https://cybergamma.group
     maxRedirects: 10
   - name: CyberGammApps
     slug: cybergammapps
     url: https://apps.cybergamma.group
     maxRedirects: 10
+  - name: CyberGammaForge VM
+    slug: cybergammaforge-vm
+    url: https://forge.vm.cybergamma.group
+    ipv6: true
+    maxRedirects: 10
   - name: CyberGammaForge
     slug: cybergammaforge
     url: https://forge.cybergamma.group
     maxRedirects: 10
-  - name: Mail.cybergamma.group (CyberGammaMail)
+  - name: CyberGammaGroup Communications VM
+    slug: cybergammagroup-communications-vm
+    url: https://comm.vm.cybergamma.group
+    ipv6: true
+    maxRedirects: 10
+  - name: CyberGammaMail
+    slug: cybergammamail
     url: https://mail.cybergamma.group
     maxRedirects: 10
-  - name: Stellae-Auri.cybergamma.group (Stellae Auri Website)
-    url: https://stellae-auri.cybergamma.group
+  - name: CyberGammaChat
+    slug: cybergammachat
+    url: https://ess.cybergamma.group
     maxRedirects: 10
-  - name: Test
-    url: https://budget.cybergamma.group
-    maxRedirects: 9
+  - name: CyberGammaGroup Services VM
+    slug: cybergammagroup-services-vm
+    url: https://services.vm.cybergamma.group
+    ipv6: true
+    maxRedirects: 10
+  - name: CyberGammaCloud
+    slug: cybergammacloud
+    url: https://nc.cybergamma.group
+    maxRedirects: 10
+  - name: Home Assistant Sezille.net VM
+    slug: home-assistant-sezille-net-vm
+    url: https://haos.sezille.net
+    maxRedirects: 10
+  - name: Home Assistant Sezille.net
+    slug: home-assistant-sezille-net
+    url: https://haos.sezille.net
+    maxRedirects: 10
 
 
 status-website:
