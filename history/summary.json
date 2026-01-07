@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-07": 676,
+      "2026-01-07": 694,
       "2026-01-06": 1440,
       "2026-01-05": 468
     }
@@ -92,7 +92,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-07": 676,
+      "2026-01-07": 694,
       "2026-01-06": 1440,
       "2026-01-05": 468
     }
@@ -132,7 +132,7 @@
     "timeMonth": 270,
     "timeYear": 270,
     "dailyMinutesDown": {
-      "2026-01-07": 676,
+      "2026-01-07": 694,
       "2026-01-06": 1440,
       "2026-01-05": 463
     }
@@ -142,19 +142,19 @@
     "url": "https://mail.cybergamma.group",
     "icon": "https://icons.duckduckgo.com/ip3/mail.cybergamma.group.ico",
     "slug": "cybergammamail",
-    "status": "up",
-    "uptime": "97.29%",
-    "uptimeDay": "95.14%",
-    "uptimeWeek": "97.29%",
-    "uptimeMonth": "97.29%",
-    "uptimeYear": "97.29%",
+    "status": "down",
+    "uptime": "97.28%",
+    "uptimeDay": "95.09%",
+    "uptimeWeek": "97.28%",
+    "uptimeMonth": "97.28%",
+    "uptimeYear": "97.28%",
     "time": 5549,
     "timeDay": 10741,
     "timeWeek": 5549,
     "timeMonth": 5549,
     "timeYear": 5549,
     "dailyMinutesDown": {
-      "2026-01-07": 53,
+      "2026-01-07": 54,
       "2026-01-06": 17
     }
   },
@@ -163,9 +163,9 @@
     "url": "https://ess.cybergamma.group",
     "icon": "https://icons.duckduckgo.com/ip3/ess.cybergamma.group.ico",
     "slug": "cybergammachat",
-    "status": "up",
+    "status": "down",
     "uptime": "97.98%",
-    "uptimeDay": "96.37%",
+    "uptimeDay": "96.36%",
     "uptimeWeek": "97.98%",
     "uptimeMonth": "97.98%",
     "uptimeYear": "97.98%",
@@ -195,7 +195,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-07": 676,
+      "2026-01-07": 694,
       "2026-01-06": 1440,
       "2026-01-05": 467
     }
