@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-07": 1019,
+      "2026-01-07": 1069,
       "2026-01-06": 1440,
       "2026-01-05": 468
     }
@@ -92,7 +92,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-07": 1019,
+      "2026-01-07": 1069,
       "2026-01-06": 1440,
       "2026-01-05": 468
     }
@@ -121,18 +121,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cybergammagroup-communications-vm",
     "status": "down",
-    "uptime": "0.15%",
+    "uptime": "0.14%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "0.15%",
-    "uptimeMonth": "0.15%",
-    "uptimeYear": "0.15%",
+    "uptimeWeek": "0.14%",
+    "uptimeMonth": "0.14%",
+    "uptimeYear": "0.14%",
     "time": 270,
     "timeDay": 0,
     "timeWeek": 270,
     "timeMonth": 270,
     "timeYear": 270,
     "dailyMinutesDown": {
-      "2026-01-07": 1019,
+      "2026-01-07": 1069,
       "2026-01-06": 1440,
       "2026-01-05": 463
     }
@@ -143,11 +143,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.cybergamma.group.ico",
     "slug": "cybergammamail",
     "status": "up",
-    "uptime": "94.34%",
+    "uptime": "94.44%",
     "uptimeDay": "88.51%",
-    "uptimeWeek": "94.34%",
-    "uptimeMonth": "94.34%",
-    "uptimeYear": "94.34%",
+    "uptimeWeek": "94.44%",
+    "uptimeMonth": "94.44%",
+    "uptimeYear": "94.44%",
     "time": 8398,
     "timeDay": 14212,
     "timeWeek": 8398,
@@ -163,12 +163,12 @@
     "url": "https://ess.cybergamma.group",
     "icon": "https://icons.duckduckgo.com/ip3/ess.cybergamma.group.ico",
     "slug": "cybergammachat",
-    "status": "up",
-    "uptime": "95.97%",
-    "uptimeDay": "91.81%",
-    "uptimeWeek": "95.97%",
-    "uptimeMonth": "95.97%",
-    "uptimeYear": "95.97%",
+    "status": "down",
+    "uptime": "96.03%",
+    "uptimeDay": "91.80%",
+    "uptimeWeek": "96.03%",
+    "uptimeMonth": "96.03%",
+    "uptimeYear": "96.03%",
     "time": 3451,
     "timeDay": 6094,
     "timeWeek": 3451,
@@ -195,7 +195,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-07": 1019,
+      "2026-01-07": 1069,
       "2026-01-06": 1440,
       "2026-01-05": 467
     }
