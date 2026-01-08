@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 454,
-    "timeDay": 405,
-    "timeWeek": 446,
-    "timeMonth": 454,
-    "timeYear": 454,
+    "time": 452,
+    "timeDay": 409,
+    "timeWeek": 449,
+    "timeMonth": 452,
+    "timeYear": 452,
     "dailyMinutesDown": {}
   },
   {
@@ -34,7 +34,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-07": 1332,
+      "2026-01-08": 122,
+      "2026-01-07": 1440,
       "2026-01-06": 1440,
       "2026-01-05": 468
     }
@@ -50,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 519,
-    "timeDay": 444,
-    "timeWeek": 498,
-    "timeMonth": 519,
-    "timeYear": 519,
+    "time": 508,
+    "timeDay": 343,
+    "timeWeek": 477,
+    "timeMonth": 508,
+    "timeYear": 508,
     "dailyMinutesDown": {}
   },
   {
@@ -68,11 +69,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 582,
-    "timeDay": 414,
-    "timeWeek": 571,
-    "timeMonth": 582,
-    "timeYear": 582,
+    "time": 578,
+    "timeDay": 519,
+    "timeWeek": 558,
+    "timeMonth": 578,
+    "timeYear": 578,
     "dailyMinutesDown": {}
   },
   {
@@ -92,7 +93,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-07": 1332,
+      "2026-01-08": 123,
+      "2026-01-07": 1440,
       "2026-01-06": 1440,
       "2026-01-05": 468
     }
@@ -108,11 +110,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 561,
-    "timeDay": 426,
-    "timeWeek": 550,
-    "timeMonth": 561,
-    "timeYear": 561,
+    "time": 551,
+    "timeDay": 414,
+    "timeWeek": 543,
+    "timeMonth": 551,
+    "timeYear": 551,
     "dailyMinutesDown": {}
   },
   {
@@ -121,18 +123,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cybergammagroup-communications-vm",
     "status": "down",
-    "uptime": "0.13%",
+    "uptime": "0.12%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "0.13%",
-    "uptimeMonth": "0.13%",
-    "uptimeYear": "0.13%",
+    "uptimeWeek": "0.12%",
+    "uptimeMonth": "0.12%",
+    "uptimeYear": "0.12%",
     "time": 270,
     "timeDay": 0,
     "timeWeek": 270,
     "timeMonth": 270,
     "timeYear": 270,
     "dailyMinutesDown": {
-      "2026-01-07": 1332,
+      "2026-01-08": 123,
+      "2026-01-07": 1440,
       "2026-01-06": 1440,
       "2026-01-05": 463
     }
@@ -143,16 +146,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.cybergamma.group.ico",
     "slug": "cybergammamail",
     "status": "up",
-    "uptime": "93.07%",
-    "uptimeDay": "84.41%",
-    "uptimeWeek": "93.07%",
-    "uptimeMonth": "93.07%",
-    "uptimeYear": "93.07%",
-    "time": 10754,
-    "timeDay": 17110,
-    "timeWeek": 10754,
-    "timeMonth": 10754,
-    "timeYear": 10754,
+    "uptime": "93.53%",
+    "uptimeDay": "85.61%",
+    "uptimeWeek": "93.53%",
+    "uptimeMonth": "93.53%",
+    "uptimeYear": "93.53%",
+    "time": 11107,
+    "timeDay": 19087,
+    "timeWeek": 11107,
+    "timeMonth": 11107,
+    "timeYear": 11107,
     "dailyMinutesDown": {
       "2026-01-07": 207,
       "2026-01-06": 17
@@ -164,16 +167,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ess.cybergamma.group.ico",
     "slug": "cybergammachat",
     "status": "up",
-    "uptime": "96.36%",
+    "uptime": "96.60%",
     "uptimeDay": "91.81%",
-    "uptimeWeek": "96.36%",
-    "uptimeMonth": "96.36%",
-    "uptimeYear": "96.36%",
-    "time": 3647,
-    "timeDay": 6108,
-    "timeWeek": 3647,
-    "timeMonth": 3647,
-    "timeYear": 3647,
+    "uptimeWeek": "96.60%",
+    "uptimeMonth": "96.60%",
+    "uptimeYear": "96.60%",
+    "time": 4036,
+    "timeDay": 7243,
+    "timeWeek": 4036,
+    "timeMonth": 4036,
+    "timeYear": 4036,
     "dailyMinutesDown": {
       "2026-01-07": 118
     }
@@ -195,7 +198,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-07": 1332,
+      "2026-01-08": 123,
+      "2026-01-07": 1440,
       "2026-01-06": 1440,
       "2026-01-05": 467
     }
@@ -211,11 +215,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1026,
-    "timeDay": 819,
-    "timeWeek": 1026,
-    "timeMonth": 1026,
-    "timeYear": 1026,
+    "time": 1022,
+    "timeDay": 988,
+    "timeWeek": 1022,
+    "timeMonth": 1022,
+    "timeYear": 1022,
     "dailyMinutesDown": {}
   },
   {
@@ -229,11 +233,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 444,
-    "timeDay": 423,
-    "timeWeek": 444,
-    "timeMonth": 444,
-    "timeYear": 444,
+    "time": 448,
+    "timeDay": 476,
+    "timeWeek": 448,
+    "timeMonth": 448,
+    "timeYear": 448,
     "dailyMinutesDown": {}
   },
   {
@@ -247,11 +251,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 114,
-    "timeDay": 92,
-    "timeWeek": 114,
-    "timeMonth": 114,
-    "timeYear": 114,
+    "time": 112,
+    "timeDay": 93,
+    "timeWeek": 112,
+    "timeMonth": 112,
+    "timeYear": 112,
     "dailyMinutesDown": {}
   }
 ]
