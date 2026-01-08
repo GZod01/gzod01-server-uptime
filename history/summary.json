@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-08": 1184,
+      "2026-01-08": 1223,
       "2026-01-07": 1440,
       "2026-01-06": 1440,
       "2026-01-05": 468
@@ -93,7 +93,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-08": 1184,
+      "2026-01-08": 1223,
       "2026-01-07": 1440,
       "2026-01-06": 1440,
       "2026-01-05": 468
@@ -134,7 +134,7 @@
     "timeMonth": 270,
     "timeYear": 270,
     "dailyMinutesDown": {
-      "2026-01-08": 1184,
+      "2026-01-08": 1223,
       "2026-01-07": 1440,
       "2026-01-06": 1440,
       "2026-01-05": 463
@@ -145,19 +145,19 @@
     "url": "https://mail.cybergamma.group",
     "icon": "https://icons.duckduckgo.com/ip3/mail.cybergamma.group.ico",
     "slug": "cybergammamail",
-    "status": "up",
-    "uptime": "85.40%",
-    "uptimeDay": "65.55%",
-    "uptimeWeek": "85.40%",
-    "uptimeMonth": "85.40%",
-    "uptimeYear": "85.40%",
+    "status": "down",
+    "uptime": "85.51%",
+    "uptimeDay": "65.51%",
+    "uptimeWeek": "85.51%",
+    "uptimeMonth": "85.51%",
+    "uptimeYear": "85.51%",
     "time": 15195,
     "timeDay": 24711,
     "timeWeek": 15195,
     "timeMonth": 15195,
     "timeYear": 15195,
     "dailyMinutesDown": {
-      "2026-01-08": 437,
+      "2026-01-08": 438,
       "2026-01-07": 207,
       "2026-01-06": 17
     }
@@ -168,18 +168,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ess.cybergamma.group.ico",
     "slug": "cybergammachat",
     "status": "down",
-    "uptime": "78.86%",
-    "uptimeDay": "41.67%",
-    "uptimeWeek": "78.86%",
-    "uptimeMonth": "78.86%",
-    "uptimeYear": "78.86%",
+    "uptime": "78.19%",
+    "uptimeDay": "38.95%",
+    "uptimeWeek": "78.19%",
+    "uptimeMonth": "78.19%",
+    "uptimeYear": "78.19%",
     "time": 4047,
     "timeDay": 6849,
     "timeWeek": 4047,
     "timeMonth": 4047,
     "timeYear": 4047,
     "dailyMinutesDown": {
-      "2026-01-08": 840,
+      "2026-01-08": 879,
       "2026-01-07": 118
     }
   },
@@ -200,7 +200,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-08": 1184,
+      "2026-01-08": 1223,
       "2026-01-07": 1440,
       "2026-01-06": 1440,
       "2026-01-05": 467
