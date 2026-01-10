@@ -10,8 +10,8 @@ sites:
   - name: CyberGammaGroup Websites VM
     slug: cybergammagroup-websites-vm
     url: websites.vm.cybergamma.group
-    check: "tcp-ping"
-    ipv6: true
+    ####check: "tcp-ping"
+    ####ipv6: true
     maxRedirects: 10
   - name: CyberGammaGroup
     slug: cybergamma-group
@@ -24,8 +24,8 @@ sites:
   - name: CyberGammaForge VM
     slug: cybergammaforge-vm
     url: forge.vm.cybergamma.group
-    check: "tcp-ping"
-    ipv6: true
+    ####check: "tcp-ping"
+    ####ipv6: true
     maxRedirects: 10
   - name: CyberGammaForge
     slug: cybergammaforge
@@ -34,8 +34,8 @@ sites:
   - name: CyberGammaGroup Communications VM
     slug: cybergammagroup-communications-vm
     url: comm.vm.cybergamma.group
-    check: "tcp-ping"
-    ipv6: true
+    ####check: "tcp-ping"
+    ####ipv6: true
     maxRedirects: 10
   - name: CyberGammaMail
     slug: cybergammamail
@@ -48,8 +48,8 @@ sites:
   - name: CyberGammaGroup Services VM
     slug: cybergammagroup-services-vm
     url: services.vm.cybergamma.group
-    check: "tcp-ping"
-    ipv6: true
+    ####check: "tcp-ping"
+    ####ipv6: true
     maxRedirects: 10
   - name: CyberGammaCloud
     slug: cybergammacloud
