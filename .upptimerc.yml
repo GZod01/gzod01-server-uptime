@@ -41,6 +41,12 @@ sites:
     slug: cybergammamail
     url: https://mail.cybergamma.group
     maxRedirects: 10
+  - name: CyberGammaGroup Matrix VM
+    slug: cybergammagroup-matrix-vm
+    url: matrix.vm.cybergamma.group
+    ####check: "tcp-ping"
+    ####ipv6: true
+    maxRedirects: 10
   - name: CyberGammaChat
     slug: cybergammachat
     url: https://ess.cybergamma.group
