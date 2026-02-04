@@ -4,69 +4,68 @@ repo: gzod01-server-uptime # The name of this repository
 
 sites:
   - name: Sezille.net Main Server
-    slug: sezille-net
     url: https://sezille.net
     maxRedirects: 10
   - name: CyberGammaGroup Websites VM
-    slug: cybergammagroup-websites-vm
+    
     url: websites.vm.cybergamma.group
     ####check: "tcp-ping"
     ####ipv6: true
     maxRedirects: 10
   - name: CyberGammaGroup
-    slug: cybergamma-group
+    
     url: https://cybergamma.group
     maxRedirects: 10
   - name: CyberGammApps
-    slug: cybergammapps
+    
     url: https://apps.cybergamma.group
     maxRedirects: 10
   - name: CyberGammaForge VM
-    slug: cybergammaforge-vm
+    
     url: forge.vm.cybergamma.group
     ####check: "tcp-ping"
     ####ipv6: true
     maxRedirects: 10
   - name: CyberGammaForge
-    slug: cybergammaforge
+    
     url: https://forge.cybergamma.group
     maxRedirects: 10
   - name: CyberGammaGroup Communications VM
-    slug: cybergammagroup-communications-vm
+    
     url: comm.vm.cybergamma.group
     ####check: "tcp-ping"
     ####ipv6: true
     maxRedirects: 10
   - name: CyberGammaMail
-    slug: cybergammamail
+    
     url: https://mail.cybergamma.group
     maxRedirects: 10
   - name: CyberGammaGroup Matrix VM
-    slug: cybergammagroup-matrix-vm
+    
     url: matrix.vm.cybergamma.group
     ####check: "tcp-ping"
     ####ipv6: true
     maxRedirects: 10
   - name: CyberGammaChat
-    slug: cybergammachat
+    
     url: https://ess.cybergamma.group
     maxRedirects: 10
   - name: CyberGammaGroup Services VM
-    slug: cybergammagroup-services-vm
+    
     url: services.vm.cybergamma.group
     ####check: "tcp-ping"
     ####ipv6: true
     maxRedirects: 10
   - name: CyberGammaCloud
-    slug: cybergammacloud
+    
     url: https://nc.cybergamma.group
     maxRedirects: 10
   - name: Home Assistant Sezille.net VM
-    slug: home-assistant-sezille-net-vm
+    
     url: https://haos.sezille.net
     maxRedirects: 10
   - name: Home Assistant Sezille.net
-    slug: home-assistant-sezille-net
+    
     url: https://haos.sezille.net
     maxRedirects: 10
 
