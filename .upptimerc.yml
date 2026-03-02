@@ -43,8 +43,8 @@ sites:
   - name: CyberGammaGroup Matrix VM
     
     url: matrix.vm.cybergamma.group
-    ####check: "tcp-ping"
-    ####ipv6: true
+    check: "tcp-ping"
+    ipv6: true
     maxRedirects: 10
   - name: CyberGammaChat
     
