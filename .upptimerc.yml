@@ -43,8 +43,10 @@ sites:
   - name: CyberGammaGroup Matrix VM
     
     url: matrix.vm.cybergamma.group
-    check: "tcp-ping"
-    ipv6: true
+    expectedStatusCode:
+    - 200
+    - 201
+    - 404
     maxRedirects: 10
   - name: CyberGammaChat
     
@@ -76,9 +78,9 @@ status-website:
   cname: uptime.gh.gzod01.fr
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: CyberGamma.Group Server Uptime
-  introTitle: "CyberGamma.Group Server Uptime Monitor powered by Upptime"
-  introMessage: Status page for cybergamm.group server and all subdomains and other site hosted on cybergamm.group server
+  name: Sezille.Net Server Uptime
+  introTitle: "Sezille.Net Server Uptime Monitor powered by Upptime"
+  introMessage: Status page for sezille.net server and vms and all subdomains and other site hosted on sezille.net server
   navbar:
     - title: Status
       href: /
