@@ -1,7 +1,7 @@
 url: websites.vm.cybergamma.group
-status: up
-code: 200
-responseTime: 577
-lastUpdated: 2026-05-27T23:59:27.889Z
+status: down
+code: 502
+responseTime: 2839
+lastUpdated: 2026-05-28T16:40:53.410Z
 startTime: 2026-02-04T08:24:15.368Z
 generator: Upptime <https://github.com/upptime/upptime>
